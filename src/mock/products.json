@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Apple",
+        "id": 1,
+        "created_at": "12/02/2023",
+        "price": "100",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtkzZMTh_n9DE3CznuCnA8wVdQI7IQT9sDng&usqp=CAU",
+        "desc": "Red Delicious apples are medium-sized and have a conical shape"
+    },
+    {
+        "name": "Orange",
+        "id": 2,
+        "created_at": "12/01/2023",
+        "price": "200",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0uDLmB9MH_DhHkyTOT_ZHuQs8JdZWM8fMQ&usqp=CAU",
+        "desc": "Red Delicious apples are medium-sized and have a conical shape"
+    },
+    {
+        "name": "Lemon",
+        "id": 3,
+        "created_at": "12/03/2023",
+        "price": "300",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3_r7FkCqhRpgmGt6PYujJRMFBR4RvBR3r3w&usqp=CAU",
+        "desc": "Lemons are a hybrid between bitter orange (sour orange) and citron, the original citrus species that all other citrus fruits came from."
+    }
+]
